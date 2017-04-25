@@ -24,7 +24,7 @@ def cholesky(A):
 A= [[1, 3, 5], [3, 13, 23], [5, 23, 42]]
 L = cholesky(A)
 
-print "Matriz A= "
+print "A= "
 pprint(A)
 
 print "L="
