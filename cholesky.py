@@ -20,6 +20,7 @@ def cholesky(A):
 
     return L 
 
+#Sample symmetric, postive matrix
 A= [[1, 3, 5], [3, 13, 23], [5, 23, 42]]
 L = cholesky(A)
 
