@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+#whatever lol
 from math import sqrt
 from pprint import pprint
 
